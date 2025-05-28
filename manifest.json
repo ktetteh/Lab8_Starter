@@ -2,7 +2,7 @@
     "name": "Lab8_Starter",
     "short_name": "Kelvin Tetteh",
     "description": "PWA for CS lab",
-    "start_url": "/",
+    "start_url": "/index.html",
     "display": "standalone",
     "background_color": "Blue",
     "theme_color": "Red",
